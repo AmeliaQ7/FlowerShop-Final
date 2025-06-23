@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amelk\\OneDrive\\Pulpit\\Kwiaciarnia\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C10A8070-4437-4C28-BA52-038EC46F6B52}|Kwiaciarnia.csproj|c:\\users\\amelk\\onedrive\\pulpit\\kwiaciarnia\\backend\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10A8070-4437-4C28-BA52-038EC46F6B52}|Kwiaciarnia.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10A8070-4437-4C28-BA52-038EC46F6B52}|Kwiaciarnia.csproj|c:\\users\\amelk\\onedrive\\pulpit\\kwiaciarnia\\backend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10A8070-4437-4C28-BA52-038EC46F6B52}|Kwiaciarnia.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10A8070-4437-4C28-BA52-038EC46F6B52}|Kwiaciarnia.csproj|c:\\users\\amelk\\onedrive\\pulpit\\kwiaciarnia\\backend\\kwiaciarnia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C10A8070-4437-4C28-BA52-038EC46F6B52}|Kwiaciarnia.csproj|solutionrelative:kwiaciarnia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10A8070-4437-4C28-BA52-038EC46F6B52}|Kwiaciarnia.csproj|c:\\users\\amelk\\onedrive\\pulpit\\kwiaciarnia\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10A8070-4437-4C28-BA52-038EC46F6B52}|Kwiaciarnia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 280,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kwiaciarnia.csproj",
+              "DocumentMoniker": "C:\\Users\\amelk\\OneDrive\\Pulpit\\Kwiaciarnia\\Backend\\Kwiaciarnia.csproj",
+              "RelativeDocumentMoniker": "Kwiaciarnia.csproj",
+              "ToolTip": "C:\\Users\\amelk\\OneDrive\\Pulpit\\Kwiaciarnia\\Backend\\Kwiaciarnia.csproj",
+              "RelativeToolTip": "Kwiaciarnia.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T08:28:33.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\amelk\\OneDrive\\Pulpit\\Kwiaciarnia\\Backend\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "C:\\Users\\amelk\\OneDrive\\Pulpit\\Kwiaciarnia\\Backend\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:54:30.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\amelk\\OneDrive\\Pulpit\\Kwiaciarnia\\Backend\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\amelk\\OneDrive\\Pulpit\\Kwiaciarnia\\Backend\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwJ4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:51:41.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amelk\\OneDrive\\Pulpit\\Kwiaciarnia\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\amelk\\OneDrive\\Pulpit\\Kwiaciarnia\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:43:31.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
